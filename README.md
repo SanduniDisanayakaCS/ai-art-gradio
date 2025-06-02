@@ -5,13 +5,6 @@ Welcome to the **AI Art Generator** — a web application that turns text prompt
 
 ---
 
-## 🚀 Demo
-
-🖼️ Live on Hugging Face Spaces:  
-👉 [Click here to try it now](https://huggingface.co/spaces/your-username/ai-art-gradio)
-
----
-
 ## 🧠 How It Works
 
 This app uses:
